@@ -1,0 +1,24 @@
+{
+  "name": "jungda",
+  "version": "0.1.1",
+  "description": "cli tool for deploy customize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongsw/jungda.git"
+  },
+  "keywords": [
+    "cli",
+    "deploy",
+    "heper"
+  ],
+  "author": "Martin Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongsw/jungda/issues"
+  },
+  "homepage": "https://github.com/hongsw/jungda#readme"
+}
